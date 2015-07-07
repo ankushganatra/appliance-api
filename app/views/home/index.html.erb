@@ -1,0 +1,40 @@
+<html>
+<head></head>
+<body>
+	<%= javascript_include_tag 'chart' %>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			var reachable_targets = 0;
+			var non_reachable_targets = 0;
+			<% @searched_appliances.each do |appliance_name, values| %>
+				reachable_targets += <%= values[:reachable].length %>
+				non_reachable_targets += <%= values[:non_reachable].length %>
+			<% end %>
+			var reach_percent = ((reachable_targets/(reachable_targets + non_reachable_targets)) * 100);
+			options.series[0].data =  [{name: "Reachable", y: reach_percent}, {name: "Non-reachable", y: 100 - reach_percent}];
+			chart_object = new Highcharts.Chart(options);
+        });
+	</script>
+	<div class="panel panel-default">
+	  <div id="container" style="width:100%; height:200px;"></div>
+	</div><br/>
+	<div data-example-id="hoverable-table" class="bs-example " style="width: 800px; margin:0 auto;">
+		<%= paginate @appliances %>
+  		<table border="1" class="table table-hover">
+			<tr>
+				<th>Appliance Name</th>
+				<th>Reachable Targets</th>
+				<th>Non-Reachable Targets</th>
+			</tr>
+			<% @searched_appliances.each do |appliance_name, values| %>
+				<tr>
+					<td><%= appliance_name %></td>
+					<td><pre><%= values[:reachable].join("\n") %></pre></td>
+					<td><pre><%= values[:non_reachable].join("\n") %></pre></td>
+				</tr>
+			<% end %>
+		</table>
+		
+	</div>
+</body>
+</html>
