@@ -14,4 +14,20 @@ describe Target, :type => :model do
       expect(target.valid?).to be(false)
     end
   end
+
+  describe "valid model data" do
+    
+    it 'has a valid data' do
+      expect(FactoryGirl.create(:target)).to be_valid
+    end
+
+    it 'is invalid without ip address' do
+      expect(FactoryGirl.build(:target, address: nil)).to be_invalid 
+    end
+
+    it 'is invalid without appliance' do
+      expect(FactoryGirl.build(:target, appliance: nil)).to be_invalid
+    end
+  end
+
 end

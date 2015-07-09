@@ -8,7 +8,7 @@ class Appliance < ActiveRecord::Base
 
 
   	
-  def self.reachable_targets(appliances)
+	def self.reachable_targets(appliances)
 		threads = []
 		hash  = {}
 		appliances.each do |appliance|
