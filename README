@@ -1,0 +1,16 @@
+View:
+    Chart:
+        Depicts the %(percentage) of targets reachable on the given page
+
+    Table:
+        Depicts Appliance name and lists the targets in columns as per the reachable addresses
+
+
+Controller:
+    Home#index:
+        Root of the application; Paginates the appliance. Per page 20 Appliance names.
+
+Model:
+    Appliance:
+        Out of the given list of appliances, finds the reachable targets through a simple 'ping'.
+         Ping output is written in file(output.log) since Ping is worked with Threads which might result in error of multiple open files.

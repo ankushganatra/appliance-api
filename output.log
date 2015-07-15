@@ -1,0 +1,547 @@
+PING 127.44.174.113 (127.44.174.113) 56(84) bytes of data.
+64 bytes from 127.44.174.113: icmp_seq=1 ttl=64 time=0.018 ms
+
+--- 127.44.174.113 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.018/0.018/0.018/0.000 ms
+PING 127.0.0.1 (127.0.0.1) 56(84) bytes of data.
+64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.018 ms
+
+--- 127.0.0.1 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.018/0.018/0.018/0.000 ms
+PING 127.0.0.1 (127.0.0.1) 56(84) bytes of data.
+64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.017 ms
+
+--- 127.0.0.1 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.017/0.017/0.017/0.000 ms
+PING 127.0.0.1 (127.0.0.1) 56(84) bytes of data.
+64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.019 ms
+
+--- 127.0.0.1 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.019/0.019/0.019/0.000 ms
+PING 62.221.156.97 (62.221.156.97) 56(84) bytes of data.
+64 bytes from 62.221.156.97: icmp_seq=1 ttl=54 time=215 ms
+
+--- 62.221.156.97 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 215.112/215.112/215.112/0.000 ms
+PING 69.113.50.146 (69.113.50.146) 56(84) bytes of data.
+64 bytes from 69.113.50.146: icmp_seq=1 ttl=241 time=307 ms
+
+--- 69.113.50.146 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 307.579/307.579/307.579/0.000 ms
+PING 64.32.72.194 (64.32.72.194) 56(84) bytes of data.
+64 bytes from 64.32.72.194: icmp_seq=1 ttl=53 time=336 ms
+
+--- 64.32.72.194 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 336.715/336.715/336.715/0.000 ms
+PING 71.173.161.41 (71.173.161.41) 56(84) bytes of data.
+64 bytes from 71.173.161.41: icmp_seq=1 ttl=46 time=377 ms
+
+--- 71.173.161.41 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 377.040/377.040/377.040/0.000 ms
+PING 220.149.184.235 (220.149.184.235) 56(84) bytes of data.
+From 221.147.177.230 icmp_seq=1 Destination Host Unreachable
+
+--- 220.149.184.235 ping statistics ---
+1 packets transmitted, 0 received, +1 errors, 100% packet loss, time 0ms
+
+PING 172.174.189.159 (172.174.189.159) 56(84) bytes of data.
+
+--- 172.174.189.159 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 191.81.29.59 (191.81.29.59) 56(84) bytes of data.
+
+--- 191.81.29.59 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 243.9.185.93 (243.9.185.93) 56(84) bytes of data.
+
+--- 243.9.185.93 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 224.250.64.173 (224.250.64.173) 56(84) bytes of data.
+
+--- 224.250.64.173 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 209.10.60.203 (209.10.60.203) 56(84) bytes of data.
+
+--- 209.10.60.203 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 161.149.208.218 (161.149.208.218) 56(84) bytes of data.
+
+--- 161.149.208.218 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 253.25.235.216 (253.25.235.216) 56(84) bytes of data.
+
+--- 253.25.235.216 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 128.33.254.177 (128.33.254.177) 56(84) bytes of data.
+
+--- 128.33.254.177 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 40.5.176.198 (40.5.176.198) 56(84) bytes of data.
+
+--- 40.5.176.198 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 84.44.200.233 (84.44.200.233) 56(84) bytes of data.
+
+--- 84.44.200.233 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 34.138.189.45 (34.138.189.45) 56(84) bytes of data.
+
+--- 34.138.189.45 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 116.162.0.155 (116.162.0.155) 56(84) bytes of data.
+
+--- 116.162.0.155 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 193.181.22.94 (193.181.22.94) 56(84) bytes of data.
+
+--- 193.181.22.94 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 55.119.144.32 (55.119.144.32) 56(84) bytes of data.
+
+--- 55.119.144.32 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 223.183.102.124 (223.183.102.124) 56(84) bytes of data.
+
+--- 223.183.102.124 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 229.0.202.83 (229.0.202.83) 56(84) bytes of data.
+
+--- 229.0.202.83 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 38.98.59.147 (38.98.59.147) 56(84) bytes of data.
+
+--- 38.98.59.147 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 123.106.213.179 (123.106.213.179) 56(84) bytes of data.
+
+--- 123.106.213.179 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 69.150.65.238 (69.150.65.238) 56(84) bytes of data.
+
+--- 69.150.65.238 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 140.4.146.152 (140.4.146.152) 56(84) bytes of data.
+
+--- 140.4.146.152 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 42.108.166.21 (42.108.166.21) 56(84) bytes of data.
+
+--- 42.108.166.21 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 37.159.241.136 (37.159.241.136) 56(84) bytes of data.
+
+--- 37.159.241.136 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 191.154.179.2 (191.154.179.2) 56(84) bytes of data.
+
+--- 191.154.179.2 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 77.242.169.167 (77.242.169.167) 56(84) bytes of data.
+
+--- 77.242.169.167 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 51.196.197.199 (51.196.197.199) 56(84) bytes of data.
+
+--- 51.196.197.199 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 53.7.74.161 (53.7.74.161) 56(84) bytes of data.
+
+--- 53.7.74.161 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 16.15.171.182 (16.15.171.182) 56(84) bytes of data.
+
+--- 16.15.171.182 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 29.74.30.18 (29.74.30.18) 56(84) bytes of data.
+
+--- 29.74.30.18 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 140.21.79.30 (140.21.79.30) 56(84) bytes of data.
+
+--- 140.21.79.30 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 58.238.138.97 (58.238.138.97) 56(84) bytes of data.
+
+--- 58.238.138.97 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 214.200.44.235 (214.200.44.235) 56(84) bytes of data.
+
+PING 37.141.246.246 (37.141.246.246) 56(84) bytes of data.
+
+--- 214.200.44.235 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+--- 37.141.246.246 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 52.126.244.9 (52.126.244.9) 56(84) bytes of data.
+
+--- 52.126.244.9 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 184.202.138.173 (184.202.138.173) 56(84) bytes of data.
+
+--- 184.202.138.173 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 204.212.95.143 (204.212.95.143) 56(84) bytes of data.
+
+--- 204.212.95.143 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 248.59.47.41 (248.59.47.41) 56(84) bytes of data.
+
+--- 248.59.47.41 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 251.124.187.241 (251.124.187.241) 56(84) bytes of data.
+
+--- 251.124.187.241 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 64.160.168.175 (64.160.168.175) 56(84) bytes of data.
+
+--- 64.160.168.175 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 186.103.240.112 (186.103.240.112) 56(84) bytes of data.
+
+--- 186.103.240.112 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 137.87.221.70 (137.87.221.70) 56(84) bytes of data.
+
+--- 137.87.221.70 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 176.130.133.104 (176.130.133.104) 56(84) bytes of data.
+
+--- 176.130.133.104 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 94.92.252.246 (94.92.252.246) 56(84) bytes of data.
+
+--- 94.92.252.246 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 50.34.76.196 (50.34.76.196) 56(84) bytes of data.
+
+--- 50.34.76.196 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 43.146.44.8 (43.146.44.8) 56(84) bytes of data.
+
+--- 43.146.44.8 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 127.44.174.113 (127.44.174.113) 56(84) bytes of data.
+64 bytes from 127.44.174.113: icmp_seq=1 ttl=64 time=0.016 ms
+
+--- 127.44.174.113 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.016/0.016/0.016/0.000 ms
+PING 127.0.0.1 (127.0.0.1) 56(84) bytes of data.
+64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.013 ms
+
+--- 127.0.0.1 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.013/0.013/0.013/0.000 ms
+PING 127.0.0.1 (127.0.0.1) 56(84) bytes of data.
+64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.027 ms
+
+--- 127.0.0.1 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.027/0.027/0.027/0.000 ms
+PING 127.0.0.1 (127.0.0.1) 56(84) bytes of data.
+64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.020 ms
+
+--- 127.0.0.1 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.020/0.020/0.020/0.000 ms
+PING 62.221.156.97 (62.221.156.97) 56(84) bytes of data.
+64 bytes from 62.221.156.97: icmp_seq=1 ttl=54 time=195 ms
+
+--- 62.221.156.97 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 195.987/195.987/195.987/0.000 ms
+PING 64.32.72.194 (64.32.72.194) 56(84) bytes of data.
+64 bytes from 64.32.72.194: icmp_seq=1 ttl=53 time=328 ms
+
+--- 64.32.72.194 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 328.740/328.740/328.740/0.000 ms
+PING 71.173.161.41 (71.173.161.41) 56(84) bytes of data.
+64 bytes from 71.173.161.41: icmp_seq=1 ttl=46 time=383 ms
+
+--- 71.173.161.41 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 383.832/383.832/383.832/0.000 ms
+PING 220.149.184.235 (220.149.184.235) 56(84) bytes of data.
+From 221.147.177.230 icmp_seq=1 Destination Host Unreachable
+
+--- 220.149.184.235 ping statistics ---
+1 packets transmitted, 0 received, +1 errors, 100% packet loss, time 0ms
+
+PING 243.9.185.93 (243.9.185.93) 56(84) bytes of data.
+
+--- 243.9.185.93 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 191.81.29.59 (191.81.29.59) 56(84) bytes of data.
+
+--- 191.81.29.59 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 172.174.189.159 (172.174.189.159) 56(84) bytes of data.
+
+--- 172.174.189.159 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 161.149.208.218 (161.149.208.218) 56(84) bytes of data.
+
+--- 161.149.208.218 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 224.250.64.173 (224.250.64.173) 56(84) bytes of data.
+
+--- 224.250.64.173 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 209.10.60.203 (209.10.60.203) 56(84) bytes of data.
+
+--- 209.10.60.203 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 128.33.254.177 (128.33.254.177) 56(84) bytes of data.
+
+--- 128.33.254.177 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 253.25.235.216 (253.25.235.216) 56(84) bytes of data.
+
+--- 253.25.235.216 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 40.5.176.198 (40.5.176.198) 56(84) bytes of data.
+
+--- 40.5.176.198 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 84.44.200.233 (84.44.200.233) 56(84) bytes of data.
+
+--- 84.44.200.233 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 34.138.189.45 (34.138.189.45) 56(84) bytes of data.
+
+--- 34.138.189.45 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 193.181.22.94 (193.181.22.94) 56(84) bytes of data.
+
+--- 193.181.22.94 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 116.162.0.155 (116.162.0.155) 56(84) bytes of data.
+
+--- 116.162.0.155 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 123.106.213.179 (123.106.213.179) 56(84) bytes of data.
+
+--- 123.106.213.179 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 69.113.50.146 (69.113.50.146) 56(84) bytes of data.
+
+--- 69.113.50.146 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 223.183.102.124 (223.183.102.124) 56(84) bytes of data.
+
+--- 223.183.102.124 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 69.150.65.238 (69.150.65.238) 56(84) bytes of data.
+
+PING 229.0.202.83 (229.0.202.83) 56(84) bytes of data.
+
+--- 69.150.65.238 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+--- 229.0.202.83 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 55.119.144.32 (55.119.144.32) 56(84) bytes of data.
+
+--- 55.119.144.32 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 38.98.59.147 (38.98.59.147) 56(84) bytes of data.
+
+--- 38.98.59.147 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 42.108.166.21 (42.108.166.21) 56(84) bytes of data.
+
+PING 140.4.146.152 (140.4.146.152) 56(84) bytes of data.
+
+--- 42.108.166.21 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+--- 140.4.146.152 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 37.159.241.136 (37.159.241.136) 56(84) bytes of data.
+
+--- 37.159.241.136 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 191.154.179.2 (191.154.179.2) 56(84) bytes of data.
+
+--- 191.154.179.2 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 51.196.197.199 (51.196.197.199) 56(84) bytes of data.
+
+--- 51.196.197.199 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 77.242.169.167 (77.242.169.167) 56(84) bytes of data.
+
+--- 77.242.169.167 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 58.238.138.97 (58.238.138.97) 56(84) bytes of data.
+
+PING 53.7.74.161 (53.7.74.161) 56(84) bytes of data.
+
+--- 58.238.138.97 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+--- 53.7.74.161 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 16.15.171.182 (16.15.171.182) 56(84) bytes of data.
+
+--- 16.15.171.182 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 140.21.79.30 (140.21.79.30) 56(84) bytes of data.
+
+--- 140.21.79.30 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 37.141.246.246 (37.141.246.246) 56(84) bytes of data.
+
+--- 37.141.246.246 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 214.200.44.235 (214.200.44.235) 56(84) bytes of data.
+
+--- 214.200.44.235 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 184.202.138.173 (184.202.138.173) 56(84) bytes of data.
+
+--- 184.202.138.173 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 52.126.244.9 (52.126.244.9) 56(84) bytes of data.
+
+--- 52.126.244.9 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 29.74.30.18 (29.74.30.18) 56(84) bytes of data.
+
+--- 29.74.30.18 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 204.212.95.143 (204.212.95.143) 56(84) bytes of data.
+
+--- 204.212.95.143 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 43.146.44.8 (43.146.44.8) 56(84) bytes of data.
+
+--- 43.146.44.8 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 64.160.168.175 (64.160.168.175) 56(84) bytes of data.
+
+--- 64.160.168.175 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 186.103.240.112 (186.103.240.112) 56(84) bytes of data.
+
+--- 186.103.240.112 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 248.59.47.41 (248.59.47.41) 56(84) bytes of data.
+
+--- 248.59.47.41 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 251.124.187.241 (251.124.187.241) 56(84) bytes of data.
+
+--- 251.124.187.241 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 50.34.76.196 (50.34.76.196) 56(84) bytes of data.
+
+--- 50.34.76.196 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 176.130.133.104 (176.130.133.104) 56(84) bytes of data.
+
+--- 176.130.133.104 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 94.92.252.246 (94.92.252.246) 56(84) bytes of data.
+
+--- 94.92.252.246 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 137.87.221.70 (137.87.221.70) 56(84) bytes of data.
+
+--- 137.87.221.70 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
